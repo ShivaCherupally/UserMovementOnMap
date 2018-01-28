@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\77ccc4a4003080340be5b4e9b3006350d93e44c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_47a21bdc8f66a3b8e590ca1bd448fe8354fedb7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\40bd807971be2998a04a70c083af417e80e3a756\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_754c11c1c8ff667f41476ee0164298cb3bac630c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_5b38a0d4c96fcab42c3832a012e42f17d986bf6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\gson-2.8.2_16468f0e0bd801ea60faff3861d6d393c0d1a75d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8a55a3ca11b3903022412db600d3bfd0d0536902\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_a1fb9c8286824b168364ec44861566ca1ba557f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\b65efadbf66d15339818f79ed13271b1bd493af3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_36689420ebf8f28a3e987eaed28b0761a6ada54d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\3673600b82d7a0fadeae9ddfe8113340676b116f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f43d6c042ee8eb48fa7606da4d1034d472a43cd">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_b9e62f22d1c6e74235123cbb9cca6623aa656ea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8bb5e805e72bd4a14e4c0ee445b8d90a5321f840\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a611d7a00671ec4eb3050a21425fae955a38eb8a">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_10936dc3c2ac24b15b09fabdc1b74088e00e9b47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\793443b18d815dcec427d84db4a80fbff1941c42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_f1f793a8433a048bcb50a1fda2bd2dbca44f1f62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\d19fc7072071a2871379b16934c12f8d881e2d44\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_e613624661791faf50dcca83169db4ce0098122e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\6173a9e17e0a618bae60817519421da97933617e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_2c3fede46eb4732c8c5ea8f01fd66df633b82009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aba37a3eec04e174dc59f00cf4bd7992061d847a">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_288de1e122b73dcc0b8f5b5e49ea754e555e0d94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5417c20b9c06192081f0caaa23cf195ff578af7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_06064d19f2fd981b766976309c2868c809b472c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\7246c29f7713e58d041a7024734d869c52aa8490\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_b0d2e1bd52ab990e58872398245e43b7fb8e3d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8b834c541cca276b0f1986cac8eb127518c12030\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_593534f17f38faff7996bebe1157cbcda7eab4c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\common-1.0.0_e002e0a22dce4476b25617a2a4bf8e677d4d9723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\71b28cb1901bea8bc7f3add6aa74a3bcb2f90e39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e39662b49ef66950c0941aa5fd4c49346a7c341">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_2c8fe3b05b12969e854a44cf06ab4ba484fc045a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0e61b9d5df18d6348230d8c0d8717f786cf76609\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5687d5d0a5cc1113f84a0477d8fdd3b91222d26e">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_61fd8f15841ebfca4aef5302e834e312bd78e34b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\582b814ea6547ba5df4ffd16b9514d1224be9734\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_80e2ac338ea1c53222d2dd797ce86db826f8c5f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0c0419ff6901097330e490653eeb7d229c0ed4a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_8e4f61bf00dcf27bc90935d7a91448678368448c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\b424a4abf81ef8c254bbe33c9e19e1a25bd42ed3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_4c68de0ba4d7d4be2be51625e363cec91729e8d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\common-1.0.0_f77f1c1677a4c40bfc83948da9d6553db591d03f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_4acbd1a926a6a5554dde7c110ac2f9cfb597b5f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\c70fea704af911f6a8efbfc0722441491f455ddb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_6c3d5bdfaac1dc0765ed75002886518bdde41a87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef65e4780d67d06abddd6e2d15dd4e0519ad8d8a">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_fde19db805d09837f655e353e9e428e53e47bd5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\581f46c8a5250fd921fa722dbe6387a47e5b1b9a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_262d504ae4db0a8f97db09a4124a0128fc541e9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\906204ccfea9a2b3f10cbc7bba89cdc81628f369\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="E:\taskgokul\Task\app\build\intermediates\pre-dexed\debug\classes_57e55aaed2217d3c9a0647466c0fabaf25d6d892.jar" />
+    </item>
+
+</items>

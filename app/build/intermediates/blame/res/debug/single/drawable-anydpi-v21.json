@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_start.xml",
+        "source": "E:\\taskgokul\\Task\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_start.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_app_lock.xml",
+        "source": "E:\\taskgokul\\Task\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_app_lock.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_stop.xml",
+        "source": "E:\\taskgokul\\Task\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_stop.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_location.xml",
+        "source": "E:\\taskgokul\\Task\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_location.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml",
+        "source": "E:\\taskgokul\\Task\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_navigation.xml",
+        "source": "E:\\taskgokul\\Task\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_navigation.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_logout.xml",
+        "source": "E:\\taskgokul\\Task\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_logout.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_current.xml",
+        "source": "E:\\taskgokul\\Task\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_current.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\7246c29f7713e58d041a7024734d869c52aa8490\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_action_bar_back.xml",
+        "source": "E:\\taskgokul\\Task\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_action_bar_back.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_red.xml",
+        "source": "E:\\taskgokul\\Task\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_red.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\7246c29f7713e58d041a7024734d869c52aa8490\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_mail_app.xml",
+        "source": "E:\\taskgokul\\Task\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mail_app.xml"
+    }
+]

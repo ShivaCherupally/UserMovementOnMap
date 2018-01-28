@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\2502a616790d08e326714ec82ae9b344fb8d9cac\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\7246c29f7713e58d041a7024734d869c52aa8490\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\2502a616790d08e326714ec82ae9b344fb8d9cac\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\7246c29f7713e58d041a7024734d869c52aa8490\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\7246c29f7713e58d041a7024734d869c52aa8490\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\taskgokul\\Task\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\RuchiTiwari.CODEFYNE\\.android\\build-cache\\7246c29f7713e58d041a7024734d869c52aa8490\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    }
+]

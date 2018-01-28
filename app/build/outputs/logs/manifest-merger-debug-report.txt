@@ -1,0 +1,319 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml
+		INJECTED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml
+		INJECTED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml
+		INJECTED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0e61b9d5df18d6348230d8c0d8717f786cf76609\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8bb5e805e72bd4a14e4c0ee445b8d90a5321f840\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0e61b9d5df18d6348230d8c0d8717f786cf76609\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8bb5e805e72bd4a14e4c0ee445b8d90a5321f840\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:9:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8bb5e805e72bd4a14e4c0ee445b8d90a5321f840\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.VIBRATE
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:12:22-63
+application
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:15:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\1661df19dc48bd57f181d5540c781e9bc2e444ef\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8a55a3ca11b3903022412db600d3bfd0d0536902\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\7246c29f7713e58d041a7024734d869c52aa8490\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\793443b18d815dcec427d84db4a80fbff1941c42\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\b65efadbf66d15339818f79ed13271b1bd493af3\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\582b814ea6547ba5df4ffd16b9514d1224be9734\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8b834c541cca276b0f1986cac8eb127518c12030\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\3673600b82d7a0fadeae9ddfe8113340676b116f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0e61b9d5df18d6348230d8c0d8717f786cf76609\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\d19fc7072071a2871379b16934c12f8d881e2d44\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\190eb10dc6008029db6e00a07793068c031a7823\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8bb5e805e72bd4a14e4c0ee445b8d90a5321f840\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\71b28cb1901bea8bc7f3add6aa74a3bcb2f90e39\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\77ccc4a4003080340be5b4e9b3006350d93e44c6\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\906204ccfea9a2b3f10cbc7bba89cdc81628f369\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5417c20b9c06192081f0caaa23cf195ff578af7b\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\581f46c8a5250fd921fa722dbe6387a47e5b1b9a\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\c70fea704af911f6a8efbfc0722441491f455ddb\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\b424a4abf81ef8c254bbe33c9e19e1a25bd42ed3\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\40bd807971be2998a04a70c083af417e80e3a756\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\6173a9e17e0a618bae60817519421da97933617e\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0c0419ff6901097330e490653eeb7d229c0ed4a4\output\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:19:9-35
+	android:allowBackup
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:20:9-52
+activity#com.maya.wadmin.activities.MainActivity
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:screenOrientation
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:23:13-49
+	android:theme
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:21:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:27:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:30:9-32:55
+	android:value
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:31:13-58
+meta-data#com.google.android.gms.version
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:33:9-35:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\906204ccfea9a2b3f10cbc7bba89cdc81628f369\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:35:13-66
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:34:13-58
+service#com.maya.wadmin.services.LocationServices
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:37:9-70
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:37:18-59
+receiver#com.maya.wadmin.broadcasts.CommunicationBroadcastReceiver
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:39:9-43:20
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:39:19-91
+intent-filter#BROADCAST_MESSAGE
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:40:13-42:29
+action#BROADCAST_MESSAGE
+ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:41:17-60
+	android:name
+		ADDED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml:41:25-57
+uses-sdk
+INJECTED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\1661df19dc48bd57f181d5540c781e9bc2e444ef\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8a55a3ca11b3903022412db600d3bfd0d0536902\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\7246c29f7713e58d041a7024734d869c52aa8490\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\793443b18d815dcec427d84db4a80fbff1941c42\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\b65efadbf66d15339818f79ed13271b1bd493af3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\582b814ea6547ba5df4ffd16b9514d1224be9734\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8b834c541cca276b0f1986cac8eb127518c12030\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\3673600b82d7a0fadeae9ddfe8113340676b116f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0e61b9d5df18d6348230d8c0d8717f786cf76609\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\d19fc7072071a2871379b16934c12f8d881e2d44\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\190eb10dc6008029db6e00a07793068c031a7823\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8bb5e805e72bd4a14e4c0ee445b8d90a5321f840\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\71b28cb1901bea8bc7f3add6aa74a3bcb2f90e39\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\77ccc4a4003080340be5b4e9b3006350d93e44c6\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\906204ccfea9a2b3f10cbc7bba89cdc81628f369\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5417c20b9c06192081f0caaa23cf195ff578af7b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\581f46c8a5250fd921fa722dbe6387a47e5b1b9a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\c70fea704af911f6a8efbfc0722441491f455ddb\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\b424a4abf81ef8c254bbe33c9e19e1a25bd42ed3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\40bd807971be2998a04a70c083af417e80e3a756\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\6173a9e17e0a618bae60817519421da97933617e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0c0419ff6901097330e490653eeb7d229c0ed4a4\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\7246c29f7713e58d041a7024734d869c52aa8490\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml
+		INJECTED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml
+		INJECTED from E:\taskgokul\Task\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8a55a3ca11b3903022412db600d3bfd0d0536902\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\7246c29f7713e58d041a7024734d869c52aa8490\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\cd8e5fcfeaa0b18076c6b59a09ecec704ac4d42b\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\793443b18d815dcec427d84db4a80fbff1941c42\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\b65efadbf66d15339818f79ed13271b1bd493af3\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\582b814ea6547ba5df4ffd16b9514d1224be9734\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8b834c541cca276b0f1986cac8eb127518c12030\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5417c20b9c06192081f0caaa23cf195ff578af7b\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\581f46c8a5250fd921fa722dbe6387a47e5b1b9a\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\c70fea704af911f6a8efbfc0722441491f455ddb\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\b424a4abf81ef8c254bbe33c9e19e1a25bd42ed3\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\40bd807971be2998a04a70c083af417e80e3a756\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\6173a9e17e0a618bae60817519421da97933617e\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8a55a3ca11b3903022412db600d3bfd0d0536902\output\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8a55a3ca11b3903022412db600d3bfd0d0536902\output\AndroidManifest.xml:24:13-51
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0e61b9d5df18d6348230d8c0d8717f786cf76609\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0e61b9d5df18d6348230d8c0d8717f786cf76609\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0e61b9d5df18d6348230d8c0d8717f786cf76609\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\d19fc7072071a2871379b16934c12f8d881e2d44\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\d19fc7072071a2871379b16934c12f8d881e2d44\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\d19fc7072071a2871379b16934c12f8d881e2d44\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\d19fc7072071a2871379b16934c12f8d881e2d44\output\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8bb5e805e72bd4a14e4c0ee445b8d90a5321f840\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\8bb5e805e72bd4a14e4c0ee445b8d90a5321f840\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\af365fdc339e458107ab5e4efc927e377af30fe4\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\5946c486be59da9916d3e1b0e0ecbef038bab0e1\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\71b28cb1901bea8bc7f3add6aa74a3bcb2f90e39\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\71b28cb1901bea8bc7f3add6aa74a3bcb2f90e39\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\71b28cb1901bea8bc7f3add6aa74a3bcb2f90e39\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\71b28cb1901bea8bc7f3add6aa74a3bcb2f90e39\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\71b28cb1901bea8bc7f3add6aa74a3bcb2f90e39\output\AndroidManifest.xml:6:79-143
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0c0419ff6901097330e490653eeb7d229c0ed4a4\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0c0419ff6901097330e490653eeb7d229c0ed4a4\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RuchiTiwari.CODEFYNE\.android\build-cache\0c0419ff6901097330e490653eeb7d229c0ed4a4\output\AndroidManifest.xml:26:13-58
